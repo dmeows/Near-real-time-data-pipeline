@@ -1,7 +1,3 @@
-# URL = "jdbc:mysql://localhost:3307/data_engineering" 
-# DRIVER = "com.mysql.cj.jdbc.Driver"
-# USER = "root"
-# PASSWORD = "1"
 USER = 'root'
 PASSWORD = '1'
 HOST = 'localhost'
